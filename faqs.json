@@ -1,0 +1,86 @@
+[
+  {
+    "question": "What is Artificial Intelligence?",
+    "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn."
+  },
+  {
+    "question": "What is AI?",
+    "answer": "Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn."
+  },
+  {
+    "question": "What are the types of Artificial Intelligence?",
+    "answer": "AI is classified into Narrow AI, General AI, and Super AI based on its capability."
+  },
+  {
+    "question": "What is Machine Learning?",
+    "answer": "Machine Learning (ML) is a subset of AI that enables machines to learn from data and improve over time without being explicitly programmed."
+  },
+  {
+    "question": "What is the difference between AI and ML?",
+    "answer": "AI is a broader concept of machines making decisions, while ML is a specific subset of AI focused on learning from data."
+  },
+  {
+    "question": "What is Deep Learning?",
+    "answer": "Deep Learning is a type of ML based on artificial neural networks with multiple layers, used for complex tasks like image and speech recognition."
+  },
+  {
+    "question": "What are neural networks?",
+    "answer": "Neural networks are computing systems inspired by the human brain, composed of interconnected nodes that process information."
+  },
+  {
+    "question": "What are some applications of AI?",
+    "answer": "AI is used in self-driving cars, virtual assistants, medical diagnosis, fraud detection, and recommendation systems."
+  },
+  {
+    "question": "What is Natural Language Processing?",
+    "answer": "Natural Language Processing (NLP) is a branch of AI that deals with the interaction between computers and human languages."
+  },
+  {
+    "question": "What are common programming languages used in AI?",
+    "answer": "Popular languages include Python, R, Java, and C++."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is an ML technique where the model learns from labeled training data."
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "answer": "Unsupervised learning deals with unlabeled data and tries to find hidden patterns or intrinsic structures."
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Reinforcement learning is an ML technique where an agent learns to make decisions by receiving rewards or penalties."
+  },
+  {
+    "question": "Is AI dangerous?",
+    "answer": "Like any powerful tool, AI can be dangerous if misused, but it also has enormous potential for good when developed responsibly."
+  },
+  {
+    "question": "Can AI replace humans?",
+    "answer": "AI can automate some tasks, but it cannot replace human creativity, emotion, and complex decision-making."
+  },
+  {
+    "question": "What is computer vision?",
+    "answer": "Computer Vision is an AI field that enables machines to interpret and make decisions based on visual data."
+  },
+  {
+    "question": "What is an AI chatbot?",
+    "answer": "An AI chatbot is a program that uses NLP and ML to simulate human conversation and provide responses."
+  },
+  {
+    "question": "How does a recommendation system work?",
+    "answer": "Recommendation systems analyze user behavior and preferences to suggest relevant content or products."
+  },
+  {
+    "question": "What are ethical concerns in AI?",
+    "answer": "Ethical concerns include bias, privacy, transparency, and the impact on employment."
+  },
+  {
+    "question": "What is data bias in AI?",
+    "answer": "Data bias occurs when training data contains prejudices that the AI model may learn and replicate."
+  },
+  {
+    "question": "How do I start learning AI?",
+    "answer": "Start with Python, learn ML libraries like Scikit-learn or TensorFlow, and study math foundations like linear algebra and statistics."
+  }
+]
