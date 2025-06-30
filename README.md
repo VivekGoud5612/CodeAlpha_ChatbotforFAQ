@@ -39,7 +39,7 @@ python -m spacy download en_core_web_sm
 ## 📂 Project Structure
 
 - `faqs.json` — AI FAQs data (20 entries)  
-- `app.py` — main chatbot logic  
+- `chatbot_for_faq's.py` — main chatbot logic  
 - `README.md` — documentation file  
 
 ---
